@@ -22,8 +22,8 @@ logger.info('This is log text')
 
 # Usage and Running
 ''' 1. Goto your command prompt or editor you are using
-    2.open watchdog1.py file containg folder
-    3.use 'python watchdog1.py'  #without quotations
+    2.open loggingg1.py file containg folder
+    3.use 'python logging1.py'  #without quotations
     4. Try to make changes in files of your directory
     5. Now open your directory and find 'logging.log' which have all your logging details
 '''
